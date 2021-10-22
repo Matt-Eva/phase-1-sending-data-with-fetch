@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,30 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Stacy",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +43,1118 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 1
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 2
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 3
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 4
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 5
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 6
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 7
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 8
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 9
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 10
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 11
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 12
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 13
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 14
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 15
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 16
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 17
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 18
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 19
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 20
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 21
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 22
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 23
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 24
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 25
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 26
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 27
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 28
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 29
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 30
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 31
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 32
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 33
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 34
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 35
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 36
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 37
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 38
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 39
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 40
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 41
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 42
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 43
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 44
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 45
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 46
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 47
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 48
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 49
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 50
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 51
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 52
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 53
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 54
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 55
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 56
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 57
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 58
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 59
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 60
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 61
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 62
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 63
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 64
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 65
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 66
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 67
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 68
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 69
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 70
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 71
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 72
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 73
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 74
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 75
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 76
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 77
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 78
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 79
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 80
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 81
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 82
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 83
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 84
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 85
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 86
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 87
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 88
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 89
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 90
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 91
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 92
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 93
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 94
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 95
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 96
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 97
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 98
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 99
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 100
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 101
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 102
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 103
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 104
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 105
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 106
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 107
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 108
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 109
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 110
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 111
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 112
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 113
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 114
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 115
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 116
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 117
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 118
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 119
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 120
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 121
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 122
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 123
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 124
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 125
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 126
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 127
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 128
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 129
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 130
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 131
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 132
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 133
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 134
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 135
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 136
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 137
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 138
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 139
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 140
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 141
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 142
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 143
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 144
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 145
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 146
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 147
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 148
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 149
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 150
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 151
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 152
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 153
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 154
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 155
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 156
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 157
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 158
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 159
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 160
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 161
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 162
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 163
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 164
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 165
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 166
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 167
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 168
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 169
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 170
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 171
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 172
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 173
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 174
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 175
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 176
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 177
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 178
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 179
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 180
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 181
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 182
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 183
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 184
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 185
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 186
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 187
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 188
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 189
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 190
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 191
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 192
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 193
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 194
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 195
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 196
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 197
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 198
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 199
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 200
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 201
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 202
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 203
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 204
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 205
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 206
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 207
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 208
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 209
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 210
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 211
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 212
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 213
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 214
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 215
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 216
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 217
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 218
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 219
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 220
+    },
+    {
+      "name": "Billy",
+      "email": "gmail",
+      "id": 221
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
